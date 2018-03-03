@@ -1,0 +1,10 @@
+{
+  "name": "NameX",
+  "start_url": "localhost:5000",
+  "description": "A Decentralized Domanin Name Exchange",
+  "icons": [{
+    "src": "https://i.imgur.com/EhncP3V.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
